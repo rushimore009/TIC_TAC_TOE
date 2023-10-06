@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rushimore009/TIC_TAC_TOE.git/static/css/main.2ddfa566.css",
+    "main.js": "/rushimore009/TIC_TAC_TOE.git/static/js/main.ac5b2e01.js",
+    "index.html": "/rushimore009/TIC_TAC_TOE.git/index.html",
+    "main.2ddfa566.css.map": "/rushimore009/TIC_TAC_TOE.git/static/css/main.2ddfa566.css.map",
+    "main.ac5b2e01.js.map": "/rushimore009/TIC_TAC_TOE.git/static/js/main.ac5b2e01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ddfa566.css",
+    "static/js/main.ac5b2e01.js"
+  ]
+}
